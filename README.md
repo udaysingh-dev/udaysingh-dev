@@ -4,7 +4,7 @@
 
 ## 🌟 Key Technologies & Tools
 
-- **Backend:** PHP, Laravel, Node.js, Express.js
+- **Backend:** PHP, Laravel, Node.js, Express.js, Wordpress
 - **Frontend:** React.js, Redux, Redux Toolkit, HTML5, CSS3, JavaScript (ES6+)
 - **Database:** MySQL, MongoDB, SQLite
 - **Version Control:** Git, GitHub
